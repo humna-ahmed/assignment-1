@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "success",
+    "quotes": [
+      "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
+      "Success usually comes to those who are too busy to be looking for it. - Henry David Thoreau",
+      "The only place where success comes before work is in the dictionary. - Vidal Sassoon"
+    ]
+  },
+  {
+    "topic": "motivation",
+    "quotes": [
+      "Your limitation—it's only your imagination.",
+      "Push yourself, because no one else is going to do it for you.",
+      "Sometimes later becomes never. Do it now."
+    ]
+  },
+  {
+    "topic": "hard work",
+    "quotes": [
+      "There are no shortcuts to any place worth going. - Beverly Sills",
+      "I'm a greater believer in luck, and I find the harder I work the more I have of it. - Thomas Jefferson",
+      "Hard work beats talent when talent fails to work hard. - Kevin Durant"
+    ]
+  }
+]
